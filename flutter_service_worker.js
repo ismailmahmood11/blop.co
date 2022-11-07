@@ -8,6 +8,7 @@ const RESOURCES = {
 "assets/assets/fonts/Cairo-Regular.ttf": "81b37df3b28d397659607391993eef22",
 "assets/assets/fonts/Inter-Regular.ttf": "079af0e2936ccb99b391ddc0bbb73dcb",
 "assets/assets/gif/logo_loop.gif": "faf7c1416e2515badd6e8db07cdfa59c",
+"assets/assets/images/app_bar/app_bar.png": "ee3462c90b770504fe0ca4cc02d55169",
 "assets/assets/images/logos/blop_text.png": "6d656ff2229ff3db29bd5561d8339aef",
 "assets/assets/images/logos/logo.png": "9c1bb6d15580a20bb905b62195759c21",
 "assets/assets/images/logos/logo_with_text.png": "948bf6bc2a81d346d2ddff8c04a19e47",
@@ -30,10 +31,12 @@ const RESOURCES = {
 "icons/favicon-16x16.png": "469f0b4eeddac0c41f93543d42705746",
 "icons/favicon-32x32.png": "bf3e84786222ca3bb591786ebd45ad05",
 "icons/favicon.ico": "ce4166950c65adc80826e2abf46f3e78",
-"index.html": "46392eb0af7e286bf147e34abdb211e0",
-"/": "46392eb0af7e286bf147e34abdb211e0",
-"main.dart.js": "4e693ead8e8e1d387446e8fa0e3fa500",
+"img/logo_loop.gif": "faf7c1416e2515badd6e8db07cdfa59c",
+"index.html": "25bcd2427ee373371cfaa5dc84922e21",
+"/": "25bcd2427ee373371cfaa5dc84922e21",
+"main.dart.js": "2f234fc0c009fc88ea76ae8013ffe56b",
 "manifest.json": "4344eb97229f6d7646e45ec33243f23a",
+"styles.css": "3b5d729f9e4413fa38f7d94b3d42ca16",
 "version.json": "0ebb02851244b0f95c021b7ac24aa922"
 };
 
