@@ -1,21 +1,35 @@
 {
-    "name": "blop",
-    "short_name": "blop",
+    "name": "blop_design",
+    "short_name": "blop_design",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Blop",
+    "description": "Where Ideas Party and Design Makes Waves",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
-        {   "src":"/android-chrome-192x192.png",
-            "sizes":"192x192",
-            "type":"image/png"
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
         },
-        {   "src":"/android-chrome-512x512.png",
-            "sizes":"512x512",
-            "type":"image/png"
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
         }
     ]
 }
