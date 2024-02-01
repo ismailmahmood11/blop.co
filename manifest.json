@@ -1,11 +1,11 @@
 {
-    "name": "blop_design",
-    "short_name": "blop_design",
+    "name": "blop_new",
+    "short_name": "blop_new",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Where Ideas Party and Design Makes Waves",
+    "description": "Blop",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
